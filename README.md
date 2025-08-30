@@ -6,7 +6,7 @@ PC with Google Colab
 # Program
 ```
 Ideal sampling:
-
+```
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import resample
@@ -45,7 +45,7 @@ plt.legend()
 plt.show() 
 ```
 #Natural Sampling
-
+```
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -93,7 +93,7 @@ plt.tight_layout()
 plt.show()
 ```
 #Flat-top Sampling
-
+```
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -166,10 +166,15 @@ plt.show()
 ```
 # Output Waveform
 Ideal sampling:
+```
 <img width="546" height="739" alt="Screenshot 2025-08-30 170609" src="https://github.com/user-attachments/assets/d1df5a4a-b229-49d4-a39f-a9bbfa731908" />
+```
 Natural sampling:
+```
 <img width="875" height="625" alt="Screenshot 2025-08-30 170944" src="https://github.com/user-attachments/assets/6ecad2bf-c15d-4935-ab1e-9787489f533e" />
+```
 Flat-top sampling:
+```
 <img width="879" height="623" alt="Screenshot 2025-08-30 170914" src="https://github.com/user-attachments/assets/33c0e029-3416-49d0-b029-2d4c7d5d2a1f" />
 
 # Results
