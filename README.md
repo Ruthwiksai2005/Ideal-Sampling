@@ -4,7 +4,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 # Tools required
 PC with Google Colab
 # Program
-
+```
 Ideal sampling:
 
 import numpy as np
