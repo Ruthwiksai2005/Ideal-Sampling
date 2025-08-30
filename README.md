@@ -4,7 +4,6 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 # Tools required
 PC with Google Colab
 # Program
-```
 Ideal sampling:
 ```
 import numpy as np
@@ -163,7 +162,7 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 plt.show()
-```
+
 # Output Waveform
 Ideal sampling:
 ```
